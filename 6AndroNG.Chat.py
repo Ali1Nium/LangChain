@@ -120,7 +120,4 @@ def load_db(file, chain_type, k):
 
     )
     return qa 
-
-.
-
  
