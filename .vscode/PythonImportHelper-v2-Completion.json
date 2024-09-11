@@ -1,0 +1,1726 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "WebBaseLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "NotionDirectoryLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "NotionDirectoryLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain.document_loaders",
+        "description": "langchain.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "GenericLoader",
+        "importPath": "langchain.document_loaders.generic",
+        "description": "langchain.document_loaders.generic",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders.generic",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIWhisperParser",
+        "importPath": "langchain.document_loaders.parsers",
+        "description": "langchain.document_loaders.parsers",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "YoutubeAudioLoader",
+        "importPath": "langchain.document_loaders.blob_loaders.youtube_audio",
+        "description": "langchain.document_loaders.blob_loaders.youtube_audio",
+        "isExtraImport": true,
+        "detail": "langchain.document_loaders.blob_loaders.youtube_audio",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "TokenTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "MarkdownHeaderTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "CharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain.embeddings.openai",
+        "description": "langchain.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "langchain.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain.embeddings.openai",
+        "description": "langchain.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "langchain.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain.embeddings.openai",
+        "description": "langchain.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "langchain.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain.embeddings.openai",
+        "description": "langchain.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "langchain.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain.embeddings.openai",
+        "description": "langchain.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "langchain.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "chroma",
+        "importPath": "langchain.vectorstores",
+        "description": "langchain.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "chroma",
+        "importPath": "langchain.vectorstores",
+        "description": "langchain.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain.vectorstores",
+        "description": "langchain.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain.vectorstores",
+        "description": "langchain.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "DocArrayInMemorySearch",
+        "importPath": "langchain.vectorstores",
+        "description": "langchain.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "langchain_openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "importPath": "langchain.llms",
+        "description": "langchain.llms",
+        "isExtraImport": true,
+        "detail": "langchain.llms",
+        "documentation": {}
+    },
+    {
+        "label": "SelfQueryRetriever",
+        "importPath": "langchain.retrievers.self_query.base",
+        "description": "langchain.retrievers.self_query.base",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers.self_query.base",
+        "documentation": {}
+    },
+    {
+        "label": "AttributeInfo",
+        "importPath": "langchain.chains.query_constructor.base",
+        "description": "langchain.chains.query_constructor.base",
+        "isExtraImport": true,
+        "detail": "langchain.chains.query_constructor.base",
+        "documentation": {}
+    },
+    {
+        "label": "ContextualCompressionRetriever",
+        "importPath": "langchain.retrievers",
+        "description": "langchain.retrievers",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers",
+        "documentation": {}
+    },
+    {
+        "label": "SVMRetriever",
+        "importPath": "langchain.retrievers",
+        "description": "langchain.retrievers",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers",
+        "documentation": {}
+    },
+    {
+        "label": "TFIDFRetriever",
+        "importPath": "langchain.retrievers",
+        "description": "langchain.retrievers",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers",
+        "documentation": {}
+    },
+    {
+        "label": "LLMChainExtractor",
+        "importPath": "langchain.retrievers.document_compressors",
+        "description": "langchain.retrievers.document_compressors",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers.document_compressors",
+        "documentation": {}
+    },
+    {
+        "label": "create_stuff_documents_chain",
+        "importPath": "langchain.chains.combine_documents",
+        "description": "langchain.chains.combine_documents",
+        "isExtraImport": true,
+        "detail": "langchain.chains.combine_documents",
+        "documentation": {}
+    },
+    {
+        "label": "create_stuff_documents_chain",
+        "importPath": "langchain.chains.combine_documents",
+        "description": "langchain.chains.combine_documents",
+        "isExtraImport": true,
+        "detail": "langchain.chains.combine_documents",
+        "documentation": {}
+    },
+    {
+        "label": "RetrievalQA",
+        "importPath": "langchain.chains.retrieval_qa.base",
+        "description": "langchain.chains.retrieval_qa.base",
+        "isExtraImport": true,
+        "detail": "langchain.chains.retrieval_qa.base",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer.pdftypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "RetrievalQA",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationalRetrievalChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "RetrivalQA",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationalRetrivalChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain.openai",
+        "description": "langchain.openai",
+        "isExtraImport": true,
+        "detail": "langchain.openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMessagePromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "WebBaseLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "FAISS",
+        "importPath": "langchain_community.vectorstores.faiss",
+        "description": "langchain_community.vectorstores.faiss",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.faiss",
+        "documentation": {}
+    },
+    {
+        "label": "create_retrieval_chain",
+        "importPath": "langchain.chains.retrieval",
+        "description": "langchain.chains.retrieval",
+        "isExtraImport": true,
+        "detail": "langchain.chains.retrieval",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "create_history_aware_retriever",
+        "importPath": "langchain.chains.history_aware_retriever",
+        "description": "langchain.chains.history_aware_retriever",
+        "isExtraImport": true,
+        "detail": "langchain.chains.history_aware_retriever",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "_ = load_dotenv((find_dotenv()))\n#API keys .!\nopenai.api_key = os.environ['OPENAI_API_KEY']\n#For Reading PDF Files ! \nfrom langchain.document_loaders import PyPDFLoader\nloader = PyPDFLoader(\"Path of PDF !\")\n#Showing Pages ! \npages = loader.load()\n#print Words ! \nprint(pages[0].page_content[ :500])",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "openai.api_key = os.environ['OPENAI_API_KEY']\n#For Reading PDF Files ! \nfrom langchain.document_loaders import PyPDFLoader\nloader = PyPDFLoader(\"Path of PDF !\")\n#Showing Pages ! \npages = loader.load()\n#print Words ! \nprint(pages[0].page_content[ :500])\n\"Load data from Youtube \"\nfrom langchain.document_loaders.generic import GenericLoader ",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "loader = PyPDFLoader(\"Path of PDF !\")\n#Showing Pages ! \npages = loader.load()\n#print Words ! \nprint(pages[0].page_content[ :500])\n\"Load data from Youtube \"\nfrom langchain.document_loaders.generic import GenericLoader \n#Making voice to text and we using for Youtube Videos to Text : \nfrom langchain.document_loaders.parsers import OpenAIWhisperParser\n#Load VOice from Youtube : ",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "pages",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "pages = loader.load()\n#print Words ! \nprint(pages[0].page_content[ :500])\n\"Load data from Youtube \"\nfrom langchain.document_loaders.generic import GenericLoader \n#Making voice to text and we using for Youtube Videos to Text : \nfrom langchain.document_loaders.parsers import OpenAIWhisperParser\n#Load VOice from Youtube : \nfrom langchain.document_loaders.blob_loaders.youtube_audio import YoutubeAudioLoader\n#Url of viedeo ",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "url = \" url of the Viedeo\"\n#Path for saving it ! \nsave_dir  = \"path for saving ! \"\n\"\"\"\nWe make a Loader with mixing (generic and Youtube and OPenAI)\nand we can load with this ! \n\"\"\"\nloader = GenericLoader(\n    YoutubeAudioLoader([url],save_dir),\n    OpenAIWhisperParser()",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "loader = GenericLoader(\n    YoutubeAudioLoader([url],save_dir),\n    OpenAIWhisperParser()\n)\n#Load ! \ndocs = loader.load()\n#Print!\nprint(docs[0].page_content[ :500])\n\"\"\"LOAD FROM WEBSITE AND LINKS \"\"\"\n#Webloader  ! ",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "docs = loader.load()\n#Print!\nprint(docs[0].page_content[ :500])\n\"\"\"LOAD FROM WEBSITE AND LINKS \"\"\"\n#Webloader  ! \nfrom langchain.document_loaders import WebBaseLoader \nloader = WebBaseLoader(\"Url of the Website \")\ndocs = loader.load()\nprint(docs[0].page_content[ :500])\n\"\"\"Load Data from Notion \"\"\"",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "loader = WebBaseLoader(\"Url of the Website \")\ndocs = loader.load()\nprint(docs[0].page_content[ :500])\n\"\"\"Load Data from Notion \"\"\"\nfrom langchain.document_loaders import NotionDirectoryLoader \nloader = NotionDirectoryLoader(\"Path of DB\")\ndocs = loader.load()\nprint(docs[0].page_content[ :500])",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "docs = loader.load()\nprint(docs[0].page_content[ :500])\n\"\"\"Load Data from Notion \"\"\"\nfrom langchain.document_loaders import NotionDirectoryLoader \nloader = NotionDirectoryLoader(\"Path of DB\")\ndocs = loader.load()\nprint(docs[0].page_content[ :500])",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "loader = NotionDirectoryLoader(\"Path of DB\")\ndocs = loader.load()\nprint(docs[0].page_content[ :500])",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "1AndroNG_LoadData",
+        "description": "1AndroNG_LoadData",
+        "peekOfCode": "docs = loader.load()\nprint(docs[0].page_content[ :500])",
+        "detail": "1AndroNG_LoadData",
+        "documentation": {}
+    },
+    {
+        "label": "Test_text_splitter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "Test_text_splitter = CharacterTextSplitter(\n    separator = \"\\n\\n\" , \n    #Size of CHunk for every Select !\n    chunk_size = 4000,\n    #Size of text for overlaping !\n    chunk_overlap = 200, \n    #len of words : \n    lenght_function = \" <built function len >,\" \n    )\n\"\"\"",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "_ = load_dotenv((find_dotenv()))\n#API keys .!\nopenai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter\nchunk_size = 26 \nchunk_overlap = 4\nr_spliter = RecursiveCharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\nr_spliter = CharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\ntext1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "openai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter\nchunk_size = 26 \nchunk_overlap = 4\nr_spliter = RecursiveCharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\nr_spliter = CharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\ntext1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))\n\"\"\" \nHere we see if len of Text be more than chunk_size ,",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_size",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "chunk_size = 26 \nchunk_overlap = 4\nr_spliter = RecursiveCharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\nr_spliter = CharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\ntext1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))\n\"\"\" \nHere we see if len of Text be more than chunk_size ,\nthe spliter give us a List with datas that their lenght is 26 .\nand the Over_lap is also same (end of last one is first of news one !)",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_overlap",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "chunk_overlap = 4\nr_spliter = RecursiveCharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\nr_spliter = CharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\ntext1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))\n\"\"\" \nHere we see if len of Text be more than chunk_size ,\nthe spliter give us a List with datas that their lenght is 26 .\nand the Over_lap is also same (end of last one is first of news one !)\n\"\"\"",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "r_spliter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "r_spliter = RecursiveCharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\nr_spliter = CharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\ntext1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))\n\"\"\" \nHere we see if len of Text be more than chunk_size ,\nthe spliter give us a List with datas that their lenght is 26 .\nand the Over_lap is also same (end of last one is first of news one !)\n\"\"\"\n#CharacterTextSplitter: ",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "r_spliter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "r_spliter = CharacterTextSplitter(chunk_size=chunk_size , chunk_overlap= chunk_overlap)\ntext1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))\n\"\"\" \nHere we see if len of Text be more than chunk_size ,\nthe spliter give us a List with datas that their lenght is 26 .\nand the Over_lap is also same (end of last one is first of news one !)\n\"\"\"\n#CharacterTextSplitter: \n\"With this we can count the Spaces as a charector !!\"",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "text1",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "text1 = \"THis is just for testing !\"\nr_spliter.split_text((text1))\n\"\"\" \nHere we see if len of Text be more than chunk_size ,\nthe spliter give us a List with datas that their lenght is 26 .\nand the Over_lap is also same (end of last one is first of news one !)\n\"\"\"\n#CharacterTextSplitter: \n\"With this we can count the Spaces as a charector !!\"\nc_spliter = CharacterTextSplitter(",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "c_spliter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "c_spliter = CharacterTextSplitter(\n    chunk_size=chunk_size,\n    chunk_overlap= chunk_overlap,\n    separator= \" \"\n    )\nc_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=chunk_size,\n    chunk_overlap= chunk_overlap,\n    separators= [\"\\n\\n\",\"\\n\",\" \",\"(?<=\\.)\",\"\"]\n    )",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "c_spliter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "c_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=chunk_size,\n    chunk_overlap= chunk_overlap,\n    separators= [\"\\n\\n\",\"\\n\",\" \",\"(?<=\\.)\",\"\"]\n    )\n#Working with PDF documents : \nfrom langchain.document_loaders import PyPDFLoader\nloader = PyPDFLoader(\"Path of PDF !\")\n#Showing Pages ! \npages = loader.load()",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "loader = PyPDFLoader(\"Path of PDF !\")\n#Showing Pages ! \npages = loader.load()\n#Making Loader ! \nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=chunk_size,\n    chunk_overlap= chunk_overlap,\n    separators= [\"\\n\\n\",\"\\n\",\" \",\"(?<=\\.)\",\"\"],\n    lenght_function = len\n    )",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "pages",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "pages = loader.load()\n#Making Loader ! \nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=chunk_size,\n    chunk_overlap= chunk_overlap,\n    separators= [\"\\n\\n\",\"\\n\",\" \",\"(?<=\\.)\",\"\"],\n    lenght_function = len\n    )\n#For working with the documents and the text : \ndocs = Text_spliter.split_documents(pages)",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "Text_spliter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "Text_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=chunk_size,\n    chunk_overlap= chunk_overlap,\n    separators= [\"\\n\\n\",\"\\n\",\" \",\"(?<=\\.)\",\"\"],\n    lenght_function = len\n    )\n#For working with the documents and the text : \ndocs = Text_spliter.split_documents(pages)\n#Working with DB Documents  : \nfrom langchain.document_loaders import NotionDirectoryLoader ",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "docs = Text_spliter.split_documents(pages)\n#Working with DB Documents  : \nfrom langchain.document_loaders import NotionDirectoryLoader \nloader = NotionDirectoryLoader(\"Path\")\nnoton_db = loader.load()\ndocs = Text_spliter.split_documents(noton_db)\n#Split with Token : \n#We spilit with Token ==> chunk_size = 1 : \nfrom langchain.text_splitter import TokenTextSplitter\nText_Splitter = TokenTextSplitter(chunk_size=1 , chunk_overlap= 0)",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "loader = NotionDirectoryLoader(\"Path\")\nnoton_db = loader.load()\ndocs = Text_spliter.split_documents(noton_db)\n#Split with Token : \n#We spilit with Token ==> chunk_size = 1 : \nfrom langchain.text_splitter import TokenTextSplitter\nText_Splitter = TokenTextSplitter(chunk_size=1 , chunk_overlap= 0)\nText1 = \"Its just a test for splitting with Tokens ! \"\nText_spliter.split_text(Text1)\n\"\"\" Split Data with Tokenize and MetaData ! \"\"\"",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "noton_db",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "noton_db = loader.load()\ndocs = Text_spliter.split_documents(noton_db)\n#Split with Token : \n#We spilit with Token ==> chunk_size = 1 : \nfrom langchain.text_splitter import TokenTextSplitter\nText_Splitter = TokenTextSplitter(chunk_size=1 , chunk_overlap= 0)\nText1 = \"Its just a test for splitting with Tokens ! \"\nText_spliter.split_text(Text1)\n\"\"\" Split Data with Tokenize and MetaData ! \"\"\"",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "docs = Text_spliter.split_documents(noton_db)\n#Split with Token : \n#We spilit with Token ==> chunk_size = 1 : \nfrom langchain.text_splitter import TokenTextSplitter\nText_Splitter = TokenTextSplitter(chunk_size=1 , chunk_overlap= 0)\nText1 = \"Its just a test for splitting with Tokens ! \"\nText_spliter.split_text(Text1)\n\"\"\" Split Data with Tokenize and MetaData ! \"\"\"\nfrom langchain.text_splitter import MarkdownHeaderTextSplitter ",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "Text_Splitter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "Text_Splitter = TokenTextSplitter(chunk_size=1 , chunk_overlap= 0)\nText1 = \"Its just a test for splitting with Tokens ! \"\nText_spliter.split_text(Text1)\n\"\"\" Split Data with Tokenize and MetaData ! \"\"\"\nfrom langchain.text_splitter import MarkdownHeaderTextSplitter \nmarkdown_document = \"\"\"# TItle\\n\\n \\ \n## Chapter I\\n\\n \\\nHi tjis is Jim\\n\\n Hi this is Joe\\n\\n \\ \n### Section \\n\\n  \\\nHi this is Lance \\n\\n ",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "Text1",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "Text1 = \"Its just a test for splitting with Tokens ! \"\nText_spliter.split_text(Text1)\n\"\"\" Split Data with Tokenize and MetaData ! \"\"\"\nfrom langchain.text_splitter import MarkdownHeaderTextSplitter \nmarkdown_document = \"\"\"# TItle\\n\\n \\ \n## Chapter I\\n\\n \\\nHi tjis is Jim\\n\\n Hi this is Joe\\n\\n \\ \n### Section \\n\\n  \\\nHi this is Lance \\n\\n \n## Chapter 2\\n\\n \\ ",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "markdown_document",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "markdown_document = \"\"\"# TItle\\n\\n \\ \n## Chapter I\\n\\n \\\nHi tjis is Jim\\n\\n Hi this is Joe\\n\\n \\ \n### Section \\n\\n  \\\nHi this is Lance \\n\\n \n## Chapter 2\\n\\n \\ \nHI this is Molly\"\"\"\nheaders_to_split_on = [\n    (\"#\", \"Header 1 \"),\n    (\"##\", \"Header 2\"),",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "headers_to_split_on",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "headers_to_split_on = [\n    (\"#\", \"Header 1 \"),\n    (\"##\", \"Header 2\"),\n    (\"###\", \"Header 3 \"),\n]\nmarkdown_splitter = MarkdownHeaderTextSplitter(\n    headers_to_split_on=headers_to_split_on\n)\nmd_header_splits = markdown_splitter.split_text(markdown_document)",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "markdown_splitter",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "markdown_splitter = MarkdownHeaderTextSplitter(\n    headers_to_split_on=headers_to_split_on\n)\nmd_header_splits = markdown_splitter.split_text(markdown_document)",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "md_header_splits",
+        "kind": 5,
+        "importPath": "2AndroNG_ChunkTheData",
+        "description": "2AndroNG_ChunkTheData",
+        "peekOfCode": "md_header_splits = markdown_splitter.split_text(markdown_document)",
+        "detail": "2AndroNG_ChunkTheData",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "_ = load_dotenv((find_dotenv()))\n#API keys .!\nopenai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.document_loaders import PyPDFLoader\n                            # Load PDF :\nloaders = [\n    #Duplicate documents on prupose - messy data ==> unclean data ! \n    PyPDFLoader(\"Path of PDF1 !\"),\n    PyPDFLoader(\"Path of PDF1 !\"),\n    PyPDFLoader(\"Path of PDF3 !\"),",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "openai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.document_loaders import PyPDFLoader\n                            # Load PDF :\nloaders = [\n    #Duplicate documents on prupose - messy data ==> unclean data ! \n    PyPDFLoader(\"Path of PDF1 !\"),\n    PyPDFLoader(\"Path of PDF1 !\"),\n    PyPDFLoader(\"Path of PDF3 !\"),\n    PyPDFLoader(\"Path of PDF4 !\")\n]",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "loaders",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "loaders = [\n    #Duplicate documents on prupose - messy data ==> unclean data ! \n    PyPDFLoader(\"Path of PDF1 !\"),\n    PyPDFLoader(\"Path of PDF1 !\"),\n    PyPDFLoader(\"Path of PDF3 !\"),\n    PyPDFLoader(\"Path of PDF4 !\")\n]\ndocs = []\nfor loader in loaders:\n    docs.extend(loader.load())",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "docs = []\nfor loader in loaders:\n    docs.extend(loader.load())\nfrom langchain.text_splitter import RecursiveCharacterTextSplitter\n                        #Using Recursive for making Group b Datas .! \nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=1500,\n    chunk_overlap= 150\n    )\nsplits = Text_spliter.split_documents((docs))",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "Text_spliter",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "Text_spliter = RecursiveCharacterTextSplitter(\n    chunk_size=1500,\n    chunk_overlap= 150\n    )\nsplits = Text_spliter.split_documents((docs))\n                        #New we need to Embeding this Groups : \nfrom langchain.embeddings.openai import OpenAIEmbeddings\nembedding = OpenAIEmbeddings()\n#For saving a Embeding : Chroma !\nfrom langchain.vectorstores import chroma",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "splits",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "splits = Text_spliter.split_documents((docs))\n                        #New we need to Embeding this Groups : \nfrom langchain.embeddings.openai import OpenAIEmbeddings\nembedding = OpenAIEmbeddings()\n#For saving a Embeding : Chroma !\nfrom langchain.vectorstores import chroma\npresist_directory = \"docs/chroma/\"\n                        #To check the CHroma the be Empty : \n#in terminal : ==> !rm -rf ./docs/chroma \nimport os",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "embedding = OpenAIEmbeddings()\n#For saving a Embeding : Chroma !\nfrom langchain.vectorstores import chroma\npresist_directory = \"docs/chroma/\"\n                        #To check the CHroma the be Empty : \n#in terminal : ==> !rm -rf ./docs/chroma \nimport os\nimport shutil\n# Check if directory exists, then remove it\nif os.path.exists(presist_directory):",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "presist_directory",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "presist_directory = \"docs/chroma/\"\n                        #To check the CHroma the be Empty : \n#in terminal : ==> !rm -rf ./docs/chroma \nimport os\nimport shutil\n# Check if directory exists, then remove it\nif os.path.exists(presist_directory):\n    shutil.rmtree(presist_directory)\n    print(f'Directory {presist_directory} has been removed.')\nelse:",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "vectordb",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "vectordb = chroma.from_documents(\n    documents = splits,\n    embedding = embedding, \n    presist_directory=presist_directory\n)\n#Number of Groups : \nprint(vectordb.collection.count())\n\"\"\"                        Example for Embeding and compare                \"\"\"\n#After Embeding we can compare the Groups : (with numpy )\nsentence1 = \"Hi its first Sentence for testing !\"",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "sentence1",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "sentence1 = \"Hi its first Sentence for testing !\"\nsentence2 = \"HI its second Sentence for testing \"\nembedding = OpenAIEmbeddings()\nembedding1 = embedding.embed_query(sentence1)\nembedding2 = embedding.embed_query(sentence2)\nimport numpy as np \n#print a Compare precent .! \nprint(np.dot(embedding1,embedding2))\n\"\"\"                          Now we Want to use it !                       \"\"\"\nQuestion = \"is in this Documents somthing about test??\"",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "sentence2",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "sentence2 = \"HI its second Sentence for testing \"\nembedding = OpenAIEmbeddings()\nembedding1 = embedding.embed_query(sentence1)\nembedding2 = embedding.embed_query(sentence2)\nimport numpy as np \n#print a Compare precent .! \nprint(np.dot(embedding1,embedding2))\n\"\"\"                          Now we Want to use it !                       \"\"\"\nQuestion = \"is in this Documents somthing about test??\"\ndocs = vectordb.similarity_search(Question, k=3)",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "embedding = OpenAIEmbeddings()\nembedding1 = embedding.embed_query(sentence1)\nembedding2 = embedding.embed_query(sentence2)\nimport numpy as np \n#print a Compare precent .! \nprint(np.dot(embedding1,embedding2))\n\"\"\"                          Now we Want to use it !                       \"\"\"\nQuestion = \"is in this Documents somthing about test??\"\ndocs = vectordb.similarity_search(Question, k=3)\n#presist the Database:",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "embedding1",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "embedding1 = embedding.embed_query(sentence1)\nembedding2 = embedding.embed_query(sentence2)\nimport numpy as np \n#print a Compare precent .! \nprint(np.dot(embedding1,embedding2))\n\"\"\"                          Now we Want to use it !                       \"\"\"\nQuestion = \"is in this Documents somthing about test??\"\ndocs = vectordb.similarity_search(Question, k=3)\n#presist the Database:\nvectordb.presist()",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "embedding2",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "embedding2 = embedding.embed_query(sentence2)\nimport numpy as np \n#print a Compare precent .! \nprint(np.dot(embedding1,embedding2))\n\"\"\"                          Now we Want to use it !                       \"\"\"\nQuestion = \"is in this Documents somthing about test??\"\ndocs = vectordb.similarity_search(Question, k=3)\n#presist the Database:\nvectordb.presist()",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "Question = \"is in this Documents somthing about test??\"\ndocs = vectordb.similarity_search(Question, k=3)\n#presist the Database:\nvectordb.presist()",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "3AndoNG_SaveDocs",
+        "description": "3AndoNG_SaveDocs",
+        "peekOfCode": "docs = vectordb.similarity_search(Question, k=3)\n#presist the Database:\nvectordb.presist()",
+        "detail": "3AndoNG_SaveDocs",
+        "documentation": {}
+    },
+    {
+        "label": "pretty_print_docs",
+        "kind": 2,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "def pretty_print_docs(docs):\n    print(f\"\\n{\"-\"*100}\\n\".join([f\"Document {d+1}:\\n\\n\" + d.page_content for d in docs]))\nllm =ChatOpenAI(temperature=0)\ncompressor = LLMChainExtractor.from_llm(llm)\ncompression_retriever = ContextualCompressionRetriever(\n    base_compressor=compressor,\n    best_retriver=vectordb.as_retriever()\n)\nquestion = \"\"\ncompressed_docs = compression_retriever.get_relevant_documents(question)",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "_ = load_dotenv((find_dotenv()))\n#API keys .!\nopenai.api_key = os.environ['OPENAI_API_KEY']\n#For saving a Embeding : Chroma !\nfrom langchain.vectorstores import chroma\nfrom langchain.embeddings.openai import OpenAIEmbeddings\npresist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = chroma.from_documents(\n    embedding = embedding, ",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "openai.api_key = os.environ['OPENAI_API_KEY']\n#For saving a Embeding : Chroma !\nfrom langchain.vectorstores import chroma\nfrom langchain.embeddings.openai import OpenAIEmbeddings\npresist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = chroma.from_documents(\n    embedding = embedding, \n    presist_directory=presist_directory\n)",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "presist_directory",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "presist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = chroma.from_documents(\n    embedding = embedding, \n    presist_directory=presist_directory\n)\nprint(vectordb._collection.count())\n#Example  ;\ntext = [\n    \"this is just for testing but i will speack abot Mashrooms !\",",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "embedding = OpenAIEmbeddings()\nvectordb = chroma.from_documents(\n    embedding = embedding, \n    presist_directory=presist_directory\n)\nprint(vectordb._collection.count())\n#Example  ;\ntext = [\n    \"this is just for testing but i will speack abot Mashrooms !\",\n    \"Mashooms are actualy good for the vision !\",",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "vectordb",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "vectordb = chroma.from_documents(\n    embedding = embedding, \n    presist_directory=presist_directory\n)\nprint(vectordb._collection.count())\n#Example  ;\ntext = [\n    \"this is just for testing but i will speack abot Mashrooms !\",\n    \"Mashooms are actualy good for the vision !\",\n    \"Do not eat evry Mashroom that you see in Earth \"",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "text = [\n    \"this is just for testing but i will speack abot Mashrooms !\",\n    \"Mashooms are actualy good for the vision !\",\n    \"Do not eat evry Mashroom that you see in Earth \"\n]\nsmalldb = chroma.from_text(text,embedding=embedding)\nQuestion = \"tell me about mashroms \"\nsmalldb.similarity_search(Question, k=2)\n\"\"\"Here we get 50% of anserw and may to get a Doplicated anserws maybe .\"\"\"\n#Now we use MMR :",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "smalldb",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "smalldb = chroma.from_text(text,embedding=embedding)\nQuestion = \"tell me about mashroms \"\nsmalldb.similarity_search(Question, k=2)\n\"\"\"Here we get 50% of anserw and may to get a Doplicated anserws maybe .\"\"\"\n#Now we use MMR :\n# We controll the number of anserws that we get with fetch_k\nsmalldb.max_marginal_relevance_search(Question,k=2,fetch_k=3)\n#Self Query : \n#for filtering the Question maybe{third one !}\nfrom langchain_openai import ChatOpenAI",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "Question = \"tell me about mashroms \"\nsmalldb.similarity_search(Question, k=2)\n\"\"\"Here we get 50% of anserw and may to get a Doplicated anserws maybe .\"\"\"\n#Now we use MMR :\n# We controll the number of anserws that we get with fetch_k\nsmalldb.max_marginal_relevance_search(Question,k=2,fetch_k=3)\n#Self Query : \n#for filtering the Question maybe{third one !}\nfrom langchain_openai import ChatOpenAI\nfrom langchain.llms import openai",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "document_conten_description",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "document_conten_description = \"Lecture notes\"\nllm = ChatOpenAI(temperature=0)\nretriver = SelfQueryRetriever.from_llm(\n    llm,\n    vectordb,\n    document_conten_description,\n    metadata_filds_info,\n    verboser =True\n)\n#MOghayese Mafhomi ==>",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "llm = ChatOpenAI(temperature=0)\nretriver = SelfQueryRetriever.from_llm(\n    llm,\n    vectordb,\n    document_conten_description,\n    metadata_filds_info,\n    verboser =True\n)\n#MOghayese Mafhomi ==>\nfrom langchain.retrievers import ContextualCompressionRetriever",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "retriver",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "retriver = SelfQueryRetriever.from_llm(\n    llm,\n    vectordb,\n    document_conten_description,\n    metadata_filds_info,\n    verboser =True\n)\n#MOghayese Mafhomi ==>\nfrom langchain.retrievers import ContextualCompressionRetriever\nfrom langchain.retrievers.document_compressors import LLMChainExtractor ",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "compressor",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "compressor = LLMChainExtractor.from_llm(llm)\ncompression_retriever = ContextualCompressionRetriever(\n    base_compressor=compressor,\n    best_retriver=vectordb.as_retriever()\n)\nquestion = \"\"\ncompressed_docs = compression_retriever.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\n\"\"\"WE GET A DOPLICATED ANSERW \"\"\"\n#CAHNGE TYPE :",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "compression_retriever",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "compression_retriever = ContextualCompressionRetriever(\n    base_compressor=compressor,\n    best_retriver=vectordb.as_retriever()\n)\nquestion = \"\"\ncompressed_docs = compression_retriever.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\n\"\"\"WE GET A DOPLICATED ANSERW \"\"\"\n#CAHNGE TYPE :\ncompression_retriever = ContextualCompressionRetriever(",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "question = \"\"\ncompressed_docs = compression_retriever.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\n\"\"\"WE GET A DOPLICATED ANSERW \"\"\"\n#CAHNGE TYPE :\ncompression_retriever = ContextualCompressionRetriever(\n    base_compressor=compressor,\n    best_retriver=vectordb.as_retriever(search_type=\"mmr\")\n)\n#POP Liens :",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "compressed_docs",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "compressed_docs = compression_retriever.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\n\"\"\"WE GET A DOPLICATED ANSERW \"\"\"\n#CAHNGE TYPE :\ncompression_retriever = ContextualCompressionRetriever(\n    base_compressor=compressor,\n    best_retriver=vectordb.as_retriever(search_type=\"mmr\")\n)\n#POP Liens :\nfrom langchain.retrievers import SVMRetriever ",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "compression_retriever",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "compression_retriever = ContextualCompressionRetriever(\n    base_compressor=compressor,\n    best_retriver=vectordb.as_retriever(search_type=\"mmr\")\n)\n#POP Liens :\nfrom langchain.retrievers import SVMRetriever \nfrom langchain.retrievers import TFIDFRetriever\nfrom langchain.document_loaders import PyPDFLoader\nfrom langchain.text_splitter import RecursiveCharacterTextSplitter\n#Load PDF : ",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "loader = PyPDFLoader(\"path\")\npages = loader.load()\nall_page_text = [p.page_content for p in pages]\njoined_page_text = \" \".join(all_page_text)\n#Split:\nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size = 1500 ,\n    chunk_overlap = 200 \n)\nsplits = Text_spliter.split_text(joined_page_text)",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "pages",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "pages = loader.load()\nall_page_text = [p.page_content for p in pages]\njoined_page_text = \" \".join(all_page_text)\n#Split:\nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size = 1500 ,\n    chunk_overlap = 200 \n)\nsplits = Text_spliter.split_text(joined_page_text)\n#Retrivers :",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "all_page_text",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "all_page_text = [p.page_content for p in pages]\njoined_page_text = \" \".join(all_page_text)\n#Split:\nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size = 1500 ,\n    chunk_overlap = 200 \n)\nsplits = Text_spliter.split_text(joined_page_text)\n#Retrivers :\nsvm_retrivers = SVMRetriever.from_texts(splits, embedding)",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "joined_page_text",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "joined_page_text = \" \".join(all_page_text)\n#Split:\nText_spliter = RecursiveCharacterTextSplitter(\n    chunk_size = 1500 ,\n    chunk_overlap = 200 \n)\nsplits = Text_spliter.split_text(joined_page_text)\n#Retrivers :\nsvm_retrivers = SVMRetriever.from_texts(splits, embedding)\nquestion = \"\"",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "Text_spliter",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "Text_spliter = RecursiveCharacterTextSplitter(\n    chunk_size = 1500 ,\n    chunk_overlap = 200 \n)\nsplits = Text_spliter.split_text(joined_page_text)\n#Retrivers :\nsvm_retrivers = SVMRetriever.from_texts(splits, embedding)\nquestion = \"\"\ncompressed_docs = svm_retrivers.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "splits",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "splits = Text_spliter.split_text(joined_page_text)\n#Retrivers :\nsvm_retrivers = SVMRetriever.from_texts(splits, embedding)\nquestion = \"\"\ncompressed_docs = svm_retrivers.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\ntfid_retriver = TFIDFRetriever.from_text(splits)\nquestion = \"\"\ncompressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "svm_retrivers",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "svm_retrivers = SVMRetriever.from_texts(splits, embedding)\nquestion = \"\"\ncompressed_docs = svm_retrivers.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\ntfid_retriver = TFIDFRetriever.from_text(splits)\nquestion = \"\"\ncompressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "question = \"\"\ncompressed_docs = svm_retrivers.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\ntfid_retriver = TFIDFRetriever.from_text(splits)\nquestion = \"\"\ncompressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "compressed_docs",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "compressed_docs = svm_retrivers.get_relevant_documents(question)\npretty_print_docs((compressed_docs))\ntfid_retriver = TFIDFRetriever.from_text(splits)\nquestion = \"\"\ncompressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "tfid_retriver",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "tfid_retriver = TFIDFRetriever.from_text(splits)\nquestion = \"\"\ncompressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "question = \"\"\ncompressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "compressed_docs",
+        "kind": 5,
+        "importPath": "4AndroNG_Retriever",
+        "description": "4AndroNG_Retriever",
+        "peekOfCode": "compressed_docs = tfid_retriver.get_relevant_documents(question)\npretty_print_docs((compressed_docs))",
+        "detail": "4AndroNG_Retriever",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "_ = load_dotenv((find_dotenv()))\n#API keys .!\nopenai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.vectorstores import Chroma \nfrom langchain.embeddings.openai import OpenAIEmbeddings \npersist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nprint(vectordb._collection.count())\nquestion = \"\"",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "openai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.vectorstores import Chroma \nfrom langchain.embeddings.openai import OpenAIEmbeddings \npersist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nprint(vectordb._collection.count())\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "persist_directory",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "persist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nprint(vectordb._collection.count())\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\n#importing LLM :\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI( ",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "embedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nprint(vectordb._collection.count())\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\n#importing LLM :\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI( \n    model=\"gpt-3.5-turbo\",",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "vectordb",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "vectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nprint(vectordb._collection.count())\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\n#importing LLM :\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI( \n    model=\"gpt-3.5-turbo\",\n    temperature=0,",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "question = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\n#importing LLM :\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI( \n    model=\"gpt-3.5-turbo\",\n    temperature=0,\n    max_tokens=1000,\n    verbose=True",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "docs = vectordb.similarity_search(question, k=3)\nlen(docs)\n#importing LLM :\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI( \n    model=\"gpt-3.5-turbo\",\n    temperature=0,\n    max_tokens=1000,\n    verbose=True\n)",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "llm = ChatOpenAI( \n    model=\"gpt-3.5-turbo\",\n    temperature=0,\n    max_tokens=1000,\n    verbose=True\n)\nfrom langchain.chains.combine_documents import create_stuff_documents_chain\nfrom langchain.chains.retrieval_qa.base import RetrievalQA\nqa_chain = RetrievalQA.from_chain_type(\n    llm,",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "qa_chain",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "qa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriever=vectordb.as_retriever()\n)\nresualt = qa_chain({\"query\":question})\n#Build prompt :\n\"\"\"  HERE WE PASS THE PROMPT WITH ALL OF INFORMATIONS TO LLM\n    AND WE WRITE THE DUTY IN  TEMPLATE (WHAT SHOULD THE LLM DO !) \n    \"\"\"\nfrom langchain.prompts import PromptTemplate",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "resualt",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "resualt = qa_chain({\"query\":question})\n#Build prompt :\n\"\"\"  HERE WE PASS THE PROMPT WITH ALL OF INFORMATIONS TO LLM\n    AND WE WRITE THE DUTY IN  TEMPLATE (WHAT SHOULD THE LLM DO !) \n    \"\"\"\nfrom langchain.prompts import PromptTemplate\ntemplate = \"\"\"use the following pieces to context to answer the question at the \n{context}\nQuestion : {question}\nHelpful answer :\"\"\"",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "template = \"\"\"use the following pieces to context to answer the question at the \n{context}\nQuestion : {question}\nHelpful answer :\"\"\"\nQA_CHAIN_PROMPT = PromptTemplate.from_template(template)\n#Read the db better with return_source_documents  . \n#Adding prompt with chain_type_kwargs .\nqa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriver =vectordb.as_retriever(),",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "QA_CHAIN_PROMPT",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "QA_CHAIN_PROMPT = PromptTemplate.from_template(template)\n#Read the db better with return_source_documents  . \n#Adding prompt with chain_type_kwargs .\nqa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriver =vectordb.as_retriever(),\n    return_source_documents=True,\n    chain_type_kwargs = {\"prompt\": QA_CHAIN_PROMPT}\n)\nquestion = \" \"",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "qa_chain",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "qa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriver =vectordb.as_retriever(),\n    return_source_documents=True,\n    chain_type_kwargs = {\"prompt\": QA_CHAIN_PROMPT}\n)\nquestion = \" \"\nresualt = qa_chain({\"query\":question})\n                          #Second way  (for Larg Documents !)\n#for larg Data and DOcuments read about the chain_type = refine",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "question = \" \"\nresualt = qa_chain({\"query\":question})\n                          #Second way  (for Larg Documents !)\n#for larg Data and DOcuments read about the chain_type = refine",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "resualt",
+        "kind": 5,
+        "importPath": "5AndroNG_QA",
+        "description": "5AndroNG_QA",
+        "peekOfCode": "resualt = qa_chain({\"query\":question})\n                          #Second way  (for Larg Documents !)\n#for larg Data and DOcuments read about the chain_type = refine",
+        "detail": "5AndroNG_QA",
+        "documentation": {}
+    },
+    {
+        "label": "load_db",
+        "kind": 2,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "def load_db(file, chain_type, k):\n    #Load documents \n    loader = PyPDFLoader(file)\n    documents = loader.load()\n    #spilit documents : \n    Text_spliter = CharacterTextSplitter(chunk_size = 650 , chunk_overlap = 0, separator=\"\")\n    docs = Text_spliter.split_documents(documents)\n    #define embedding :\n    embedding = OpenAIEmbeddings()\n    #create vecctor database for data ",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "_ = load_dotenv((find_dotenv()))\n#API keys .!\nopenai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.vectorstores import Chroma \nfrom langchain.embeddings.openai import OpenAIEmbeddings \npersist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "openai.api_key = os.environ['OPENAI_API_KEY']\nfrom langchain.vectorstores import Chroma \nfrom langchain.embeddings.openai import OpenAIEmbeddings \npersist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\nfrom langchain_openai import ChatOpenAI",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "persist_directory",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "persist_directory = \"docs/chroma/\"\nembedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI(\n    model= \"gpt-3.5-turbo\",\n    temperature=0",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "embedding",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "embedding = OpenAIEmbeddings()\nvectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI(\n    model= \"gpt-3.5-turbo\",\n    temperature=0\n)",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "vectordb",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "vectordb = Chroma(persist_directory=persist_directory, embedding_function= embedding)\nquestion = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI(\n    model= \"gpt-3.5-turbo\",\n    temperature=0\n)\nllm.predict((\"Hello world!\"))",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "question = \"\"\ndocs = vectordb.similarity_search(question, k=3)\nlen(docs)\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI(\n    model= \"gpt-3.5-turbo\",\n    temperature=0\n)\nllm.predict((\"Hello world!\"))\nfrom langchain.prompts import PromptTemplate",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "docs = vectordb.similarity_search(question, k=3)\nlen(docs)\nfrom langchain_openai import ChatOpenAI\nllm = ChatOpenAI(\n    model= \"gpt-3.5-turbo\",\n    temperature=0\n)\nllm.predict((\"Hello world!\"))\nfrom langchain.prompts import PromptTemplate\nfrom langchain.chains import RetrievalQA",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "llm = ChatOpenAI(\n    model= \"gpt-3.5-turbo\",\n    temperature=0\n)\nllm.predict((\"Hello world!\"))\nfrom langchain.prompts import PromptTemplate\nfrom langchain.chains import RetrievalQA\ntemplate = \"\"\"use the following pieces to context to answer the question at the \n{context}\nQuestion : {question}",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "template = \"\"\"use the following pieces to context to answer the question at the \n{context}\nQuestion : {question}\nHelpful answer :\"\"\"\nQA_CHAIN_PROMPT = PromptTemplate(input_variables=[\"context\",\"question\"],template=template)\n#Read the db better with return_source_documents  . \n#Adding prompt with chain_type_kwargs .\nquestion = \" \"\nqa_chain = RetrievalQA.from_chain_type(\n    llm,",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "QA_CHAIN_PROMPT",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "QA_CHAIN_PROMPT = PromptTemplate(input_variables=[\"context\",\"question\"],template=template)\n#Read the db better with return_source_documents  . \n#Adding prompt with chain_type_kwargs .\nquestion = \" \"\nqa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriver =vectordb.as_retriever(),\n    return_source_documents=True,\n    chain_type_kwargs = {\"prompt\": QA_CHAIN_PROMPT}\n)",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "question = \" \"\nqa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriver =vectordb.as_retriever(),\n    return_source_documents=True,\n    chain_type_kwargs = {\"prompt\": QA_CHAIN_PROMPT}\n)\nresualt = qa_chain({\"query\":question})\nfrom langchain.memory import ConversationBufferMemory\nmemory = ConversationBufferMemory(",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "qa_chain",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "qa_chain = RetrievalQA.from_chain_type(\n    llm,\n    retriver =vectordb.as_retriever(),\n    return_source_documents=True,\n    chain_type_kwargs = {\"prompt\": QA_CHAIN_PROMPT}\n)\nresualt = qa_chain({\"query\":question})\nfrom langchain.memory import ConversationBufferMemory\nmemory = ConversationBufferMemory(\n    memory_key=\"chat_history\",",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "resualt",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "resualt = qa_chain({\"query\":question})\nfrom langchain.memory import ConversationBufferMemory\nmemory = ConversationBufferMemory(\n    memory_key=\"chat_history\",\n    return_messages=True\n)\nfrom langchain.chains import ConversationalRetrievalChain\nretriever = vectordb.as_retriever()\nqa = ConversationalRetrievalChain.from_llm(\n    llm,",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "memory",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "memory = ConversationBufferMemory(\n    memory_key=\"chat_history\",\n    return_messages=True\n)\nfrom langchain.chains import ConversationalRetrievalChain\nretriever = vectordb.as_retriever()\nqa = ConversationalRetrievalChain.from_llm(\n    llm,\n    retriever= retriever,\n    memory=memory",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "retriever",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "retriever = vectordb.as_retriever()\nqa = ConversationalRetrievalChain.from_llm(\n    llm,\n    retriever= retriever,\n    memory=memory\n)\nquestion = \" \"\nresualt = qa({\"query\":question})\n\"\"\"                           THis will intialize your database and reciever chain                        \"\"\"\nfrom langchain.embeddings.openai import OpenAIEmbeddings",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "qa",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "qa = ConversationalRetrievalChain.from_llm(\n    llm,\n    retriever= retriever,\n    memory=memory\n)\nquestion = \" \"\nresualt = qa({\"query\":question})\n\"\"\"                           THis will intialize your database and reciever chain                        \"\"\"\nfrom langchain.embeddings.openai import OpenAIEmbeddings\nfrom langchain.text_splitter import CharacterTextSplitter ",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "question",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "question = \" \"\nresualt = qa({\"query\":question})\n\"\"\"                           THis will intialize your database and reciever chain                        \"\"\"\nfrom langchain.embeddings.openai import OpenAIEmbeddings\nfrom langchain.text_splitter import CharacterTextSplitter \nfrom langchain.vectorstores import DocArrayInMemorySearch\nfrom langchain.document_loaders import TextLoader \nfrom langchain.chains import RetrivalQA, ConversationalRetrivalChain\nfrom langchain.openai import ChatOpenAI \nfrom langchain.document_loaders import TextLoader",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "resualt",
+        "kind": 5,
+        "importPath": "6AndroNG.Chat",
+        "description": "6AndroNG.Chat",
+        "peekOfCode": "resualt = qa({\"query\":question})\n\"\"\"                           THis will intialize your database and reciever chain                        \"\"\"\nfrom langchain.embeddings.openai import OpenAIEmbeddings\nfrom langchain.text_splitter import CharacterTextSplitter \nfrom langchain.vectorstores import DocArrayInMemorySearch\nfrom langchain.document_loaders import TextLoader \nfrom langchain.chains import RetrivalQA, ConversationalRetrivalChain\nfrom langchain.openai import ChatOpenAI \nfrom langchain.document_loaders import TextLoader\nfrom langchain.document_loaders import PyPDFLoader",
+        "detail": "6AndroNG.Chat",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_from_web",
+        "kind": 2,
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "peekOfCode": "def get_document_from_web(url):\n    loeader = WebBaseLoader(url)\n    docs = loeader.load()\n    spliter = RecursiveCharacterTextSplitter(\n        chunk_size = 400, \n        chunk_overlap = 20 \n    )\n    SplitDocs = spliter.split_documents(docs)\n    return SplitDocs\n#Create_DB:",
+        "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "create_db",
+        "kind": 2,
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "peekOfCode": "def create_db(docs):\n    embedding = OpenAIEmbeddings()\n    vectorStore = FAISS.from_documents(docs, embedding=embedding)\n    return vectorStore \n#Create Model : \ndef creat_chain(vectorStore):\n    model = ChatOpenAI(\n        model = \"gpt-3.5-turbo\",\n        temperature=0.4\n    )",
+        "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "creat_chain",
+        "kind": 2,
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "peekOfCode": "def creat_chain(vectorStore):\n    model = ChatOpenAI(\n        model = \"gpt-3.5-turbo\",\n        temperature=0.4\n    )\n    prompt = ChatMessagePromptTemplate.from_messages([\n        (\"system\", \"Answer the users questions based on the context : {context}\"),\n        MessagesPlaceholder(variable_name=\"chat_history\")\n        (\"human\",\"{input}\")\n    ])",
+        "detail": "chatbot",
+        "documentation": {}
+    },
+    {
+        "label": "prosses_chat",
+        "kind": 2,
+        "importPath": "chatbot",
+        "description": "chatbot",
+        "peekOfCode": "def prosses_chat(chain,question,chat_history):\n    response = chain.invoke({\n        \"input\": question ,\n        \"chat_history\":chat_History\n    })\n    return response[\"answer\"]\n#Creating main Loop : \nif __name__ ==\"__main__\":\n    docs = get_document_from_web(\"Urls !\")\n    vectorStor = create_db(docs)",
+        "detail": "chatbot",
+        "documentation": {}
+    }
+]
